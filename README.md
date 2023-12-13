@@ -1,1 +1,1 @@
-# simon-game.io
+# simon-game.io/simon.html
